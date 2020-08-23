@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="2831.25px" preserveAspectRatio="none" style="width:2298px;height:2831px;background:#00000000;" version="1.1" viewBox="0 0 2298 2831" width="2298.9583px" zoomAndPan="magnify"><defs><linearGradient id="gggdv0ud8dgu90" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient><linearGradient id="gggdv0ud8dgu91" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#59B6EC"/><stop offset="100%" stop-color="#2FA4E7"/></linearGradient><linearGradient id="gggdv0ud8dgu92" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#35638F"/><stop offset="100%" stop-color="#033C73"/></linearGradient></defs><g><rect fill="url(#gggdv0ud8dgu90)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="334.375" x="982.2917" y="12.5"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="307.2917" x="995.8333" y="43.8619">Sequence diagram - V(1.0.0)</text><rect fill="#EDF0F2" height="2510.9741" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="301.5625" y="202.5777"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="606.7708" y="242.7694"/><rect fill="#EDF0F2" height="673.5331" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="900.5208" y="515.3442"/><rect fill="#EDF0F2" height="585.8582" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1152.0833" y="2026.4771"/><rect fill="#EDF0F2" height="625.0081" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1426.0417" y="1256.7607"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="1051.2024"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="1650.1689"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="2474.6602"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="1105.9774"/><rect fill="#EDF0F2" height="122.05" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="1745.1355"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="2529.4352"/><rect fill="#FFFFFF" height="104.5166" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="846.875" x="226.5625" y="326.711"/><rect fill="#FFFFFF" height="2174.8576" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="2059.8958" x="226.5625" y="445.811"/><rect fill="#FFFFFF" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="366.1458" x="741.6667" y="741.7358"/><rect fill="#FFFFFF" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="394.7917" x="708.3333" y="884.1858"/><rect fill="#FFFFFF" height="769.7164" style="stroke: none; stroke-width: 1.0416666666666667;" width="2059.8958" x="226.5625" y="1197.2107"/><rect fill="#FFFFFF" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="376.0417" x="1266.6667" y="1483.1523"/><rect fill="#FFFFFF" height="653.7415" style="stroke: none; stroke-width: 1.0416666666666667;" width="2059.8958" x="226.5625" y="1966.9271"/><rect fill="#FFFFFF" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="464.5833" x="925" y="2307.6436"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="46.875" x2="46.875" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="306.7708" x2="306.7708" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="611.9792" x2="611.9792" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="905.2083" x2="905.2083" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="1157.2917" x2="1157.2917" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="1431.25" x2="1431.25" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="1876.0417" x2="1876.0417" y1="160.3027" y2="2732.3018"/><line style="stroke: #BABDBF; stroke-width: 2.0833333333333335; stroke-dasharray: 5.0,5.0;" x1="2066.6667" x2="2066.6667" y1="160.3027" y2="2732.3018"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="13.5417" y="152.4699">PerlScript</text><ellipse cx="47.3958" cy="79.4861" fill="url(#gggdv0ud8dgu91)" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M47.3958,87.8194 L47.3958,115.9444 M33.8542,96.1528 L60.9375,96.1528 M47.3958,115.9444 L33.8542,131.5694 M47.3958,115.9444 L60.9375,131.5694 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="13.5417" y="2749.0356">PerlScript</text><ellipse cx="47.3958" cy="2767.2852" fill="url(#gggdv0ud8dgu91)" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M47.3958,2775.6185 L47.3958,2803.7435 M33.8542,2783.9518 L60.9375,2783.9518 M47.3958,2803.7435 L33.8542,2819.3685 M47.3958,2803.7435 L60.9375,2819.3685 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="56.25" x="278.6458" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="291.1458" y="144.1366">main</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="56.25" x="278.6458" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="291.1458" y="2756.3273">main</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="102.0833" x="560.9375" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="573.4375" y="144.1366">file_handler</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="102.0833" x="560.9375" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="573.4375" y="2756.3273">file_handler</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="161.4583" x="825" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="136.4583" x="837.5" y="144.1366">true_color_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="161.4583" x="825" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="136.4583" x="837.5" y="2756.3273">true_color_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="154.1667" x="1080.2083" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="129.1667" x="1092.7083" y="144.1366">air_mass_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="154.1667" x="1080.2083" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="129.1667" x="1092.7083" y="2756.3273">air_mass_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="206.25" x="1328.125" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="181.25" x="1340.625" y="144.1366">fire_temperature_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="206.25" x="1328.125" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="181.25" x="1340.625" y="2756.3273">fire_temperature_algorithm</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="95.8333" x="1828.125" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="1840.625" y="144.1366">parallel_lib</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="95.8333" x="1828.125" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="1840.625" y="2756.3273">parallel_lib</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="97.9167" x="2017.7083" y="119.0694"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="2030.2083" y="144.1366">projections</text><rect fill="url(#gggdv0ud8dgu91)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #2FA4E7; stroke-width: 1.5625;" width="97.9167" x="2017.7083" y="2731.2602"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="2030.2083" y="2756.3273">projections</text><rect fill="#EDF0F2" height="2510.9741" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="301.5625" y="202.5777"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="606.7708" y="242.7694"/><rect fill="#EDF0F2" height="673.5331" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="900.5208" y="515.3442"/><rect fill="#EDF0F2" height="585.8582" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1152.0833" y="2026.4771"/><rect fill="#EDF0F2" height="625.0081" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1426.0417" y="1256.7607"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="1051.2024"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="1650.1689"/><rect fill="#EDF0F2" height="14.5833" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="1870.8333" y="2474.6602"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="1105.9774"/><rect fill="#EDF0F2" height="122.05" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="1745.1355"/><rect fill="#EDF0F2" height="68.3167" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="10.4167" x="2061.4583" y="2529.4352"/><polygon fill="#2FA4E7" points="289.0625,198.4111,299.4792,202.5777,289.0625,206.7444,293.2292,202.5777" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="47.3958" x2="295.3125" y1="202.5777" y2="202.5777"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="59.8958" y="192.6615">1</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="200" x="83.8542" y="192.6615">./goes_parallel(argc,argv) : int</text><polygon fill="#2FA4E7" points="594.2708,238.6027,604.6875,242.7694,594.2708,246.936,598.4375,242.7694" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="600.5208" y1="242.7694" y2="242.7694"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="324.4792" y="232.8532">2</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="181.25" x="348.4375" y="232.8532">open_netcdf(argv[1]) : void</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="617.1875" x2="660.9375" y1="282.961" y2="282.961"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="660.9375" x2="660.9375" y1="282.961" y2="296.5027"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="618.2292" x2="660.9375" y1="296.5027" y2="296.5027"/><polygon fill="#2FA4E7" points="628.6458,292.336,618.2292,296.5027,628.6458,300.6694,624.4792,296.5027" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="629.6875" y="273.0448">3</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="234.375" x="653.6458" y="273.0448">read_and_load(file_name) : uint8_t</text><polygon fill="#2FA4E7" points="323.4375,306.9194,313.0208,311.086,323.4375,315.2527,319.2708,311.086" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="317.1875" x2="610.9375" y1="311.086" y2="311.086"/><path d="M230.7292,326.711 L306.7708,326.711 L306.7708,343.3777 L296.3542,353.7944 L226.5625,353.7944 L226.5625,330.8777 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="104.5166" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="846.875" x="226.5625" y="326.711"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="247.3958" y="345.5282">par</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="355.7292" y1="397.8068" y2="397.8068"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="355.7292" x2="355.7292" y1="397.8068" y2="411.3485"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="313.0208" x2="355.7292" y1="411.3485" y2="411.3485"/><polygon fill="#2FA4E7" points="323.4375,407.1818,313.0208,411.3485,323.4375,415.5151,319.2708,411.3485" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="324.4792" y="387.8906">4</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="245.8333" x="348.4375" y="387.8906">load_channel(channel_number) : int*</text><path d="M611.4583,363.7777 L611.4583,421.0693 A4.1667,4.1667 0 0 0 615.625,425.236 L1047.9167,425.236 A4.1667,4.1667 0 0 0 1052.0833,421.0693 L1052.0833,370.0277 L1041.6667,359.611 L615.625,359.611 A4.1667,4.1667 0 0 0 611.4583,363.7777 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1041.6667,359.611 L1041.6667,367.9443 A2.0833,2.0833 0 0 0 1043.75,370.0277 L1052.0833,370.0277 L1041.6667,359.611 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="331.25" x="622.9167" y="382.5948">Esto se podría hacer en MPI, en total se necesitan</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="408.3333" x="622.9167" y="397.7865">10 canales: 1,2,3,5,6,7,8,10,12,13. Cada proceso, puede usar</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="186.4583" x="622.9167" y="412.9781">OpenMP para crear la matriz</text><path d="M230.7292,445.811 L301.5625,445.811 L301.5625,462.4776 L291.1458,472.8943 L226.5625,472.8943 L226.5625,449.9776 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="2174.8576" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="2059.8958" x="226.5625" y="445.811"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="17.7083" x="247.3958" y="464.6281">alt</text><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="200" x="322.3958" y="465.6698">[case: true_color_algorithm]</text><polygon fill="#2FA4E7" points="888.0208,511.1776,898.4375,515.3442,888.0208,519.5109,892.1875,515.3442" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="894.2708" y1="515.3442" y2="515.3442"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="324.4792" y="505.4281">5</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="183.3333" x="348.4375" y="505.4281">calculate_true_color() : void</text><path d="M780.2083,533.0526 L780.2083,560.1359 A4.1667,4.1667 0 0 0 784.375,564.3026 L1027.0833,564.3026 A4.1667,4.1667 0 0 0 1031.25,560.1359 L1031.25,539.3026 L1020.8333,528.8859 L784.375,528.8859 A4.1667,4.1667 0 0 0 780.2083,533.0526 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1020.8333,528.8859 L1020.8333,537.2192 A2.0833,2.0833 0 0 0 1022.9167,539.3026 L1031.25,539.3026 L1020.8333,528.8859 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="218.75" x="791.6667" y="551.8697">True color usa los canales 1,2 y 3</text><polygon fill="#2FA4E7" points="323.4375,597.8109,313.0208,601.9775,323.4375,606.1442,319.2708,601.9775" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="899.4792" y1="601.9775" y2="601.9775"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="334.8958" y="592.0614">6</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="358.8542" y="592.0614">get_channel_1() : int*</text><polygon fill="#2FA4E7" points="888.0208,612.3942,898.4375,616.5609,888.0208,620.7275,892.1875,616.5609" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="894.2708" y1="616.5609" y2="616.5609"/><polygon fill="#2FA4E7" points="323.4375,652.5859,313.0208,656.7525,323.4375,660.9192,319.2708,656.7525" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="899.4792" y1="656.7525" y2="656.7525"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="334.8958" y="646.8363">7</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="358.8542" y="646.8363">get_channel_2() : int*</text><polygon fill="#2FA4E7" points="888.0208,667.1692,898.4375,671.3359,888.0208,675.5025,892.1875,671.3359" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="894.2708" y1="671.3359" y2="671.3359"/><polygon fill="#2FA4E7" points="323.4375,707.3608,313.0208,711.5275,323.4375,715.6942,319.2708,711.5275" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="899.4792" y1="711.5275" y2="711.5275"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="334.8958" y="701.6113">8</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="358.8542" y="701.6113">get_channel_3() : int*</text><polygon fill="#2FA4E7" points="888.0208,721.9442,898.4375,726.1108,888.0208,730.2775,892.1875,726.1108" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="894.2708" y1="726.1108" y2="726.1108"/><path d="M745.8333,741.7358 L821.875,741.7358 L821.875,758.4025 L811.4583,768.8192 L741.6667,768.8192 L741.6667,745.9025 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="366.1458" x="741.6667" y="741.7358"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="762.5" y="760.553">par</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="910.9375" x2="954.6875" y1="801.2858" y2="801.2858"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="954.6875" x2="954.6875" y1="801.2858" y2="814.8275"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="911.9792" x2="954.6875" y1="814.8275" y2="814.8275"/><polygon fill="#2FA4E7" points="922.3958,810.6608,911.9792,814.8275,922.3958,818.9941,918.2292,814.8275" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="9.375" x="923.4375" y="791.3696">9</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="142.7083" x="947.3958" y="791.3696">apply_gamma() : void</text><path d="M752.0833,832.5358 L752.0833,859.6191 A4.1667,4.1667 0 0 0 756.25,863.7858 L1055.2083,863.7858 A4.1667,4.1667 0 0 0 1059.375,859.6191 L1059.375,838.7858 L1048.9583,828.3691 L756.25,828.3691 A4.1667,4.1667 0 0 0 752.0833,832.5358 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1048.9583,828.3691 L1048.9583,836.7025 A2.0833,2.0833 0 0 0 1051.0417,838.7858 L1059.375,838.7858 L1048.9583,828.3691 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="275" x="763.5417" y="851.3529">Para cada valor, valor = valor^(1/gamma)</text><path d="M712.5,884.1858 L788.5417,884.1858 L788.5417,900.8525 L778.125,911.2691 L708.3333,911.2691 L708.3333,888.3525 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="394.7917" x="708.3333" y="884.1858"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="729.1667" y="903.0029">par</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="910.9375" x2="954.6875" y1="943.7358" y2="943.7358"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="954.6875" x2="954.6875" y1="943.7358" y2="957.2774"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="911.9792" x2="954.6875" y1="957.2774" y2="957.2774"/><polygon fill="#2FA4E7" points="922.3958,953.1108,911.9792,957.2774,922.3958,961.4441,918.2292,957.2774" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="923.4375" y="933.8196">10</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="125" x="956.7708" y="933.8196">true_green() : void</text><path d="M718.75,974.9858 L718.75,1002.0691 A4.1667,4.1667 0 0 0 722.9167,1006.2358 L1088.5417,1006.2358 A4.1667,4.1667 0 0 0 1092.7083,1002.0691 L1092.7083,981.2358 L1082.2917,970.8191 L722.9167,970.8191 A4.1667,4.1667 0 0 0 718.75,974.9858 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1082.2917,970.8191 L1082.2917,979.1524 A2.0833,2.0833 0 0 0 1084.375,981.2358 L1092.7083,981.2358 L1082.2917,970.8191 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="341.6667" x="730.2083" y="993.8029">TrueGreen = (0.4835*R) + (0.0603*G) + (0.4570*B)</text><polygon fill="#2FA4E7" points="1858.3333,1047.0357,1868.75,1051.2024,1858.3333,1055.3691,1862.5,1051.2024" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="910.9375" x2="1864.5833" y1="1051.2024" y2="1051.2024"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="923.4375" y="1041.2862">11</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="370.8333" x="956.7708" y="1041.2862">compose_image(channel_1,channel_2,channel_3)  : int*</text><polygon fill="#2FA4E7" points="922.3958,1061.6191,911.9792,1065.7857,922.3958,1069.9524,918.2292,1065.7857" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="916.1458" x2="1875" y1="1065.7857" y2="1065.7857"/><polygon fill="#2FA4E7" points="2048.9583,1101.8107,2059.375,1105.9774,2048.9583,1110.144,2053.125,1105.9774" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="910.9375" x2="2055.2083" y1="1105.9774" y2="1105.9774"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="923.4375" y="1096.0612">12</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="370.8333" x="956.7708" y="1096.0612">generate_geoestacionary_proj(true_color_matrix) : void</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2071.875" x2="2115.625" y1="1146.169" y2="1146.169"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2115.625" x2="2115.625" y1="1146.169" y2="1159.7107"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2072.9167" x2="2115.625" y1="1159.7107" y2="1159.7107"/><polygon fill="#2FA4E7" points="2083.3333,1155.544,2072.9167,1159.7107,2083.3333,1163.8774,2079.1667,1159.7107" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="2084.375" y="1136.2528">13</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="130.2083" x="2117.7083" y="1136.2528">save_image() : void</text><polygon fill="#2FA4E7" points="922.3958,1170.1274,911.9792,1174.294,922.3958,1178.4607,918.2292,1174.294" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="916.1458" x2="2065.625" y1="1174.294" y2="1174.294"/><polygon fill="#2FA4E7" points="323.4375,1184.7107,313.0208,1188.8774,323.4375,1193.044,319.2708,1188.8774" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="317.1875" x2="904.6875" y1="1188.8774" y2="1188.8774"/><line style="stroke: #868E96; stroke-width: 1.0416666666666667; stroke-dasharray: 2.0,2.0;" x1="226.5625" x2="2286.4583" y1="1198.2524" y2="1198.2524"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="246.875" x="236.9792" y="1216.0278">[case: fire_temperature_algorithm]</text><polygon fill="#2FA4E7" points="1413.5417,1252.594,1423.9583,1256.7607,1413.5417,1260.9273,1417.7083,1256.7607" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="1419.7917" y1="1256.7607" y2="1256.7607"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="324.4792" y="1246.8445">14</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="137.5" x="357.8125" y="1246.8445">calculate_fire() : void</text><path d="M1326.0417,1274.469 L1326.0417,1301.5523 A4.1667,4.1667 0 0 0 1330.2083,1305.719 L1532.2917,1305.719 A4.1667,4.1667 0 0 0 1536.4583,1301.5523 L1536.4583,1280.719 L1526.0417,1270.3023 L1330.2083,1270.3023 A4.1667,4.1667 0 0 0 1326.0417,1274.469 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1526.0417,1270.3023 L1526.0417,1278.6357 A2.0833,2.0833 0 0 0 1528.125,1280.719 L1536.4583,1280.719 L1526.0417,1270.3023 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="178.125" x="1337.5" y="1293.2861">Fire usa los canales 5,6 y 7</text><polygon fill="#2FA4E7" points="323.4375,1339.2273,313.0208,1343.394,323.4375,1347.5606,319.2708,1343.394" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1425" y1="1343.394" y2="1343.394"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="1333.4778">15</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="368.2292" y="1333.4778">get_channel_5() : int*</text><polygon fill="#2FA4E7" points="1413.5417,1353.8106,1423.9583,1357.9773,1413.5417,1362.144,1417.7083,1357.9773" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1419.7917" y1="1357.9773" y2="1357.9773"/><polygon fill="#2FA4E7" points="323.4375,1394.0023,313.0208,1398.1689,323.4375,1402.3356,319.2708,1398.1689" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1425" y1="1398.1689" y2="1398.1689"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="1388.2528">16</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="368.2292" y="1388.2528">get_channel_6() : int*</text><polygon fill="#2FA4E7" points="1413.5417,1408.5856,1423.9583,1412.7523,1413.5417,1416.9189,1417.7083,1412.7523" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1419.7917" y1="1412.7523" y2="1412.7523"/><polygon fill="#2FA4E7" points="323.4375,1448.7773,313.0208,1452.9439,323.4375,1457.1106,319.2708,1452.9439" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1425" y1="1452.9439" y2="1452.9439"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="1443.0278">17</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="368.2292" y="1443.0278">get_channel_7() : int*</text><polygon fill="#2FA4E7" points="1413.5417,1463.3606,1423.9583,1467.5273,1413.5417,1471.6939,1417.7083,1467.5273" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1419.7917" y1="1467.5273" y2="1467.5273"/><path d="M1270.8333,1483.1523 L1346.875,1483.1523 L1346.875,1499.8189 L1336.4583,1510.2356 L1266.6667,1510.2356 L1266.6667,1487.3189 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="376.0417" x="1266.6667" y="1483.1523"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="1287.5" y="1501.9694">par</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1436.4583" x2="1480.2083" y1="1542.7022" y2="1542.7022"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1480.2083" x2="1480.2083" y1="1542.7022" y2="1556.2439"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1437.5" x2="1480.2083" y1="1556.2439" y2="1556.2439"/><polygon fill="#2FA4E7" points="1447.9167,1552.0772,1437.5,1556.2439,1447.9167,1560.4106,1443.75,1556.2439" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1448.9583" y="1532.7861">18</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="142.7083" x="1482.2917" y="1532.7861">apply_gamma() : void</text><path d="M1277.0833,1573.9522 L1277.0833,1601.0356 A4.1667,4.1667 0 0 0 1281.25,1605.2022 L1580.2083,1605.2022 A4.1667,4.1667 0 0 0 1584.375,1601.0356 L1584.375,1580.2022 L1573.9583,1569.7856 L1281.25,1569.7856 A4.1667,4.1667 0 0 0 1277.0833,1573.9522 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1573.9583,1569.7856 L1573.9583,1578.1189 A2.0833,2.0833 0 0 0 1576.0417,1580.2022 L1584.375,1580.2022 L1573.9583,1569.7856 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="275" x="1288.5417" y="1592.7694">Para cada valor, valor = valor^(1/gamma)</text><polygon fill="#2FA4E7" points="1858.3333,1646.0022,1868.75,1650.1689,1858.3333,1654.3355,1862.5,1650.1689" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1436.4583" x2="1864.5833" y1="1650.1689" y2="1650.1689"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1448.9583" y="1640.2527">19</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="370.8333" x="1482.2917" y="1640.2527">compose_image(channel_5,channel_6,channel_7)  : int*</text><polygon fill="#2FA4E7" points="1447.9167,1660.5855,1437.5,1664.7522,1447.9167,1668.9189,1443.75,1664.7522" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="1441.6667" x2="1875" y1="1664.7522" y2="1664.7522"/><polygon fill="#2FA4E7" points="2054.1667,1700.7772,2064.5833,1704.9438,2054.1667,1709.1105,2058.3333,1704.9438" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1436.4583" x2="2060.4167" y1="1704.9438" y2="1704.9438"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1448.9583" y="1695.0277">20</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="325" x="1482.2917" y="1695.0277">generate_geoestacionary_proj(fire_matrix) : void</text><polygon fill="#2FA4E7" points="2048.9583,1740.9688,2059.375,1745.1355,2048.9583,1749.3022,2053.125,1745.1355" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1436.4583" x2="2055.2083" y1="1745.1355" y2="1745.1355"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1448.9583" y="1735.2193">21</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="282.2917" x="1482.2917" y="1735.2193">generate_cilindrical_proj(fire_matrix) : void</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2071.875" x2="2115.625" y1="1785.3271" y2="1785.3271"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2115.625" x2="2115.625" y1="1785.3271" y2="1798.8688"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2072.9167" x2="2115.625" y1="1798.8688" y2="1798.8688"/><polygon fill="#2FA4E7" points="2083.3333,1794.7021,2072.9167,1798.8688,2083.3333,1803.0355,2079.1667,1798.8688" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="2084.375" y="1775.411">22</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="130.2083" x="2117.7083" y="1775.411">save_image() : void</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2071.875" x2="2115.625" y1="1839.0605" y2="1839.0605"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2115.625" x2="2115.625" y1="1839.0605" y2="1852.6021"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2072.9167" x2="2115.625" y1="1852.6021" y2="1852.6021"/><polygon fill="#2FA4E7" points="2083.3333,1848.4355,2072.9167,1852.6021,2083.3333,1856.7688,2079.1667,1852.6021" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="2084.375" y="1829.1443">23</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="151.0417" x="2117.7083" y="1829.1443">save_cil_image() : void</text><polygon fill="#2FA4E7" points="1447.9167,1863.0188,1437.5,1867.1855,1447.9167,1871.3521,1443.75,1867.1855" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="1441.6667" x2="2065.625" y1="1867.1855" y2="1867.1855"/><polygon fill="#2FA4E7" points="323.4375,1877.6021,313.0208,1881.7688,323.4375,1885.9355,319.2708,1881.7688" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="317.1875" x2="1430.2083" y1="1881.7688" y2="1881.7688"/><path d="M1105.2083,1899.4771 L1105.2083,1956.7688 A4.1667,4.1667 0 0 0 1109.375,1960.9355 L1753.125,1960.9355 A4.1667,4.1667 0 0 0 1757.2917,1956.7688 L1757.2917,1905.7271 L1746.875,1895.3105 L1109.375,1895.3105 A4.1667,4.1667 0 0 0 1105.2083,1899.4771 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1746.875,1895.3105 L1746.875,1903.6438 A2.0833,2.0833 0 0 0 1748.9583,1905.7271 L1757.2917,1905.7271 L1746.875,1895.3105 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="487.5" x="1116.6667" y="1918.2943">Este algoritmo es crítico, debería comunicarse con una API de Golang para</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="619.7917" x="1116.6667" y="1933.4859">notificar si se detectan puntos rojos brillantes. (Consultar que valor es un punto rojo brillante)</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="428.125" x="1116.6667" y="1948.6776">Podría paralelizarse la búsqueda de esos puntos o usar un script</text><line style="stroke: #868E96; stroke-width: 1.0416666666666667; stroke-dasharray: 2.0,2.0;" x1="226.5625" x2="2286.4583" y1="1967.9688" y2="1967.9688"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="191.6667" x="236.9792" y="1985.7442">[case: air_mass_algorithm]</text><polygon fill="#2FA4E7" points="1139.5833,2022.3104,1150,2026.4771,1139.5833,2030.6437,1143.75,2026.4771" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="1145.8333" y1="2026.4771" y2="2026.4771"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="324.4792" y="2016.5609">24</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="176.0417" x="357.8125" y="2016.5609">calculate_air_mass() : void</text><path d="M1012.5,2044.1854 L1012.5,2071.2687 A4.1667,4.1667 0 0 0 1016.6667,2075.4354 L1296.875,2075.4354 A4.1667,4.1667 0 0 0 1301.0417,2071.2687 L1301.0417,2050.4354 L1290.625,2040.0187 L1016.6667,2040.0187 A4.1667,4.1667 0 0 0 1012.5,2044.1854 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1290.625,2040.0187 L1290.625,2048.3521 A2.0833,2.0833 0 0 0 1292.7083,2050.4354 L1301.0417,2050.4354 L1290.625,2040.0187 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="256.25" x="1023.9583" y="2063.0025">True color usa los canales 8,10,12 y 13</text><polygon fill="#2FA4E7" points="323.4375,2108.9437,313.0208,2113.1104,323.4375,2117.277,319.2708,2113.1104" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1151.0417" y1="2113.1104" y2="2113.1104"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="2103.1942">25</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="368.2292" y="2103.1942">get_channel_8() : int*</text><polygon fill="#2FA4E7" points="1139.5833,2123.527,1150,2127.6937,1139.5833,2131.8604,1143.75,2127.6937" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1145.8333" y1="2127.6937" y2="2127.6937"/><polygon fill="#2FA4E7" points="323.4375,2163.7187,313.0208,2167.8853,323.4375,2172.052,319.2708,2167.8853" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1151.0417" y1="2167.8853" y2="2167.8853"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="2157.9692">26</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="155.2083" x="368.2292" y="2157.9692">get_channel_10() : int*</text><polygon fill="#2FA4E7" points="1139.5833,2178.302,1150,2182.4687,1139.5833,2186.6353,1143.75,2182.4687" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1145.8333" y1="2182.4687" y2="2182.4687"/><polygon fill="#2FA4E7" points="323.4375,2218.4937,313.0208,2222.6603,323.4375,2226.827,319.2708,2222.6603" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1151.0417" y1="2222.6603" y2="2222.6603"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="2212.7441">27</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="155.2083" x="368.2292" y="2212.7441">get_channel_12() : int*</text><polygon fill="#2FA4E7" points="1139.5833,2233.077,1150,2237.2437,1139.5833,2241.4103,1143.75,2237.2437" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1145.8333" y1="2237.2437" y2="2237.2437"/><polygon fill="#2FA4E7" points="323.4375,2273.2686,313.0208,2277.4353,323.4375,2281.602,319.2708,2277.4353" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="317.1875" x2="1151.0417" y1="2277.4353" y2="2277.4353"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="334.8958" y="2267.5191">28</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="155.2083" x="368.2292" y="2267.5191">get_channel_13() : int*</text><polygon fill="#2FA4E7" points="1139.5833,2287.852,1150,2292.0186,1139.5833,2296.1853,1143.75,2292.0186" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="311.9792" x2="1145.8333" y1="2292.0186" y2="2292.0186"/><path d="M929.1667,2307.6436 L1005.2083,2307.6436 L1005.2083,2324.3103 L994.7917,2334.727 L925,2334.727 L925,2311.8103 " fill="#EEEEEE" style="stroke: #868E96; stroke-width: 1.0416666666666667;"/><rect fill="none" height="127.8666" rx="4.1667" ry="4.1667" style="stroke: #868E96; stroke-width: 2.0833333333333335;" width="464.5833" x="925" y="2307.6436"/><text fill="#033C73" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="945.8333" y="2326.4608">par</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1162.5" x2="1206.25" y1="2367.1936" y2="2367.1936"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1206.25" x2="1206.25" y1="2367.1936" y2="2380.7353"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1163.5417" x2="1206.25" y1="2380.7353" y2="2380.7353"/><polygon fill="#2FA4E7" points="1173.9583,2376.5686,1163.5417,2380.7353,1173.9583,2384.9019,1169.7917,2380.7353" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1175" y="2357.2774">29</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="114.5833" x="1208.3333" y="2357.2774">normalize() : void</text><path d="M935.4167,2398.4436 L935.4167,2425.5269 A4.1667,4.1667 0 0 0 939.5833,2429.6936 L1375,2429.6936 A4.1667,4.1667 0 0 0 1379.1667,2425.5269 L1379.1667,2404.6936 L1368.75,2394.2769 L939.5833,2394.2769 A4.1667,4.1667 0 0 0 935.4167,2398.4436 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><path d="M1368.75,2394.2769 L1368.75,2402.6103 A2.0833,2.0833 0 0 0 1370.8333,2404.6936 L1379.1667,2404.6936 L1368.75,2394.2769 " fill="url(#gggdv0ud8dgu92)" style="stroke: #033C73; stroke-width: 1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="411.4583" x="946.875" y="2417.2607">B = 1 - B. Además hay que convertir a grados celcius el canal 8</text><polygon fill="#2FA4E7" points="1858.3333,2470.4936,1868.75,2474.6602,1858.3333,2478.8269,1862.5,2474.6602" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1162.5" x2="1864.5833" y1="2474.6602" y2="2474.6602"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1175" y="2464.7441">30</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="467.7083" x="1208.3333" y="2464.7441">compose_image(channel_8,channel_10,channel_12,channel_13)  : int*</text><polygon fill="#2FA4E7" points="1173.9583,2485.0769,1163.5417,2489.2436,1173.9583,2493.4102,1169.7917,2489.2436" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="1167.7083" x2="1875" y1="2489.2436" y2="2489.2436"/><polygon fill="#2FA4E7" points="2048.9583,2525.2686,2059.375,2529.4352,2048.9583,2533.6019,2053.125,2529.4352" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="1162.5" x2="2055.2083" y1="2529.4352" y2="2529.4352"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="1175" y="2519.519">31</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="363.5417" x="1208.3333" y="2519.519">generate_geoestacionary_proj(air_mass_matrix) : void</text><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2071.875" x2="2115.625" y1="2569.6269" y2="2569.6269"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2115.625" x2="2115.625" y1="2569.6269" y2="2583.1685"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="2072.9167" x2="2115.625" y1="2583.1685" y2="2583.1685"/><polygon fill="#2FA4E7" points="2083.3333,2579.0019,2072.9167,2583.1685,2083.3333,2587.3352,2079.1667,2583.1685" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="2084.375" y="2559.7107">32</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="130.2083" x="2117.7083" y="2559.7107">save_image() : void</text><polygon fill="#2FA4E7" points="1173.9583,2593.5852,1163.5417,2597.7519,1173.9583,2601.9185,1169.7917,2597.7519" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="1167.7083" x2="2065.625" y1="2597.7519" y2="2597.7519"/><polygon fill="#2FA4E7" points="323.4375,2608.1685,313.0208,2612.3352,323.4375,2616.5019,319.2708,2612.3352" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="317.1875" x2="1156.25" y1="2612.3352" y2="2612.3352"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="311.9792" x2="355.7292" y1="2659.8185" y2="2659.8185"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="355.7292" x2="355.7292" y1="2659.8185" y2="2673.3602"/><line style="stroke: #2FA4E7; stroke-width: 3.125;" x1="313.0208" x2="355.7292" y1="2673.3602" y2="2673.3602"/><polygon fill="#2FA4E7" points="323.4375,2669.1935,313.0208,2673.3602,323.4375,2677.5269,319.2708,2673.3602" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18.75" x="324.4792" y="2649.9023">33</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="128.125" x="357.8125" y="2649.9023">clean_mess() : void</text><polygon fill="#2FA4E7" points="58.8542,2709.3852,48.4375,2713.5518,58.8542,2717.7185,54.6875,2713.5518" style="stroke: #2FA4E7; stroke-width: 1.0416666666666667;"/><line style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 2.0,2.0;" x1="52.6042" x2="305.7292" y1="2713.5518" y2="2713.5518"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="98.9583" x="70.3125" y="2703.6357">EXIT_SUCCESS</text><!--MD5=[92879177a11cbbdaf9e33b530741347a]
+@startuml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+title Sequence diagram - V(1.0.0)
+actor PerlScript
+autonumber
+participant main order 10
+participant file_handler order 20
+participant true_color_algorithm order 30
+participant air_mass_algorithm order 40
+participant fire_temperature_algorithm order 50
+participant parallel_lib order 60
+participant projections order 70
+
+PerlScript -> main: ./goes_parallel(argc,argv) : int
+activate main
+main -> file_handler: open_netcdf(argv[1]) : void
+activate file_handler
+file_handler -> file_handler: read_and_load(file_name) : uint8_t
+autonumber stop
+return
+autonumber resume
+par
+main -> main: load_channel(channel_number) : int*
+note right
+Esto se podría hacer en MPI, en total se necesitan
+10 canales: 1,2,3,5,6,7,8,10,12,13. Cada proceso, puede usar
+OpenMP para crear la matriz
+end note
+end 
+alt case: true_color_algorithm
+    main -> true_color_algorithm : calculate_true_color() : void
+    activate true_color_algorithm
+    note over true_color_algorithm
+        True color usa los canales 1,2 y 3
+    end note
+    true_color_algorithm -> main : get_channel_1() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_2() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_3() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    par 
+    true_color_algorithm -> true_color_algorithm: apply_gamma() : void
+    note over true_color_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end 
+    par 
+    true_color_algorithm -> true_color_algorithm: true_green() : void
+    note over true_color_algorithm
+    TrueGreen = (0.4835*R) + (0.0603*G) + (0.4570*B)
+    end note
+    end 
+    true_color_algorithm -> parallel_lib: compose_image(channel_1,channel_2,channel_3)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> true_color_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    true_color_algorithm -> projections: generate_geoestacionary_proj(true_color_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+else case: fire_temperature_algorithm
+    main -> fire_temperature_algorithm: calculate_fire() : void
+    note over fire_temperature_algorithm
+    Fire usa los canales 5,6 y 7
+    end note
+    activate fire_temperature_algorithm
+    fire_temperature_algorithm -> main : get_channel_5() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_6() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_7() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    par 
+    fire_temperature_algorithm -> fire_temperature_algorithm: apply_gamma() : void
+    note over fire_temperature_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end
+    fire_temperature_algorithm -> parallel_lib: compose_image(channel_5,channel_6,channel_7)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> fire_temperature_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    fire_temperature_algorithm -> projections: generate_geoestacionary_proj(fire_matrix) : void
+    fire_temperature_algorithm -> projections: generate_cilindrical_proj(fire_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    projections -> projections: save_cil_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+    note over fire_temperature_algorithm
+    Este algoritmo es crítico, debería comunicarse con una API de Golang para
+    notificar si se detectan puntos rojos brillantes. (Consultar que valor es un punto rojo brillante)
+    Podría paralelizarse la búsqueda de esos puntos o usar un script
+    end note
+else case: air_mass_algorithm
+    main -> air_mass_algorithm : calculate_air_mass() : void
+    activate air_mass_algorithm
+    note over air_mass_algorithm
+        True color usa los canales 8,10,12 y 13
+    end note
+    air_mass_algorithm -> main : get_channel_8() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_10() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_12() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_13() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    par 
+    air_mass_algorithm -> air_mass_algorithm: normalize() : void
+    note over air_mass_algorithm
+    B = 1 - B. Además hay que convertir a grados celcius el canal 8
+    end note
+    end 
+    air_mass_algorithm -> parallel_lib: compose_image(channel_8,channel_10,channel_12,channel_13)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> air_mass_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    air_mass_algorithm -> projections: generate_geoestacionary_proj(air_mass_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+end
+main -> main: clean_mess() : void
+autonumber stop 
+return EXIT_SUCCESS
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            8
+skinparam ParticipantPadding     40
+skinparam BoxPadding             40
+skinparam Padding                5
+skinparam ArrowColor             #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor #5C862E
+    IBackgroundColor #D2494E
+    IBorderColor #9F161B
+    EBackgroundColor #E47833
+    EBorderColor #B14500
+    NBackgroundColor #35638F
+    NBorderColor #02305C
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #EDF0F2-#E9ECEF
+}
+
+
+skinparam legend {
+	BackgroundColor #E9ECEF
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor #FFF-#EDF0F2
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #343A40
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor transparent
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor #F8F9FA
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #EDF0F2
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	DividerBackgroundColor #FFF-#F8F9FA
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#F8F9FA
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam interface {
+	BackgroundColor  #D2494E
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor #E47833-#DD5600
+  	BorderColor #DD5600
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #E9ECEF
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #2FA4E7
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #F8F9FA
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam card {
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #033C73
+	FontColor #868E96
+
+}
+
+
+title Sequence diagram - V(1.0.0)
+actor PerlScript
+autonumber
+participant main order 10
+participant file_handler order 20
+participant true_color_algorithm order 30
+participant air_mass_algorithm order 40
+participant fire_temperature_algorithm order 50
+participant parallel_lib order 60
+participant projections order 70
+
+PerlScript -> main: ./goes_parallel(argc,argv) : int
+activate main
+main -> file_handler: open_netcdf(argv[1]) : void
+activate file_handler
+file_handler -> file_handler: read_and_load(file_name) : uint8_t
+autonumber stop
+return
+autonumber resume
+par
+main -> main: load_channel(channel_number) : int*
+note right
+Esto se podría hacer en MPI, en total se necesitan
+10 canales: 1,2,3,5,6,7,8,10,12,13. Cada proceso, puede usar
+OpenMP para crear la matriz
+end note
+end 
+alt case: true_color_algorithm
+    main -> true_color_algorithm : calculate_true_color() : void
+    activate true_color_algorithm
+    note over true_color_algorithm
+        True color usa los canales 1,2 y 3
+    end note
+    true_color_algorithm -> main : get_channel_1() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_2() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_3() : int*
+    autonumber stop
+    main - -> true_color_algorithm : 
+    autonumber resume 
+    par 
+    true_color_algorithm -> true_color_algorithm: apply_gamma() : void
+    note over true_color_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end 
+    par 
+    true_color_algorithm -> true_color_algorithm: true_green() : void
+    note over true_color_algorithm
+    TrueGreen = (0.4835*R) + (0.0603*G) + (0.4570*B)
+    end note
+    end 
+    true_color_algorithm -> parallel_lib: compose_image(channel_1,channel_2,channel_3)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> true_color_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    true_color_algorithm -> projections: generate_geoestacionary_proj(true_color_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+else case: fire_temperature_algorithm
+    main -> fire_temperature_algorithm: calculate_fire() : void
+    note over fire_temperature_algorithm
+    Fire usa los canales 5,6 y 7
+    end note
+    activate fire_temperature_algorithm
+    fire_temperature_algorithm -> main : get_channel_5() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_6() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_7() : int*
+    autonumber stop
+    main - -> fire_temperature_algorithm : 
+    autonumber resume 
+    par 
+    fire_temperature_algorithm -> fire_temperature_algorithm: apply_gamma() : void
+    note over fire_temperature_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end
+    fire_temperature_algorithm -> parallel_lib: compose_image(channel_5,channel_6,channel_7)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> fire_temperature_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    fire_temperature_algorithm -> projections: generate_geoestacionary_proj(fire_matrix) : void
+    fire_temperature_algorithm -> projections: generate_cilindrical_proj(fire_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    projections -> projections: save_cil_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+    note over fire_temperature_algorithm
+    Este algoritmo es crítico, debería comunicarse con una API de Golang para
+    notificar si se detectan puntos rojos brillantes. (Consultar que valor es un punto rojo brillante)
+    Podría paralelizarse la búsqueda de esos puntos o usar un script
+    end note
+else case: air_mass_algorithm
+    main -> air_mass_algorithm : calculate_air_mass() : void
+    activate air_mass_algorithm
+    note over air_mass_algorithm
+        True color usa los canales 8,10,12 y 13
+    end note
+    air_mass_algorithm -> main : get_channel_8() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_10() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_12() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_13() : int*
+    autonumber stop
+    main - -> air_mass_algorithm : 
+    autonumber resume 
+    par 
+    air_mass_algorithm -> air_mass_algorithm: normalize() : void
+    note over air_mass_algorithm
+    B = 1 - B. Además hay que convertir a grados celcius el canal 8
+    end note
+    end 
+    air_mass_algorithm -> parallel_lib: compose_image(channel_8,channel_10,channel_12,channel_13)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib - -> air_mass_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    air_mass_algorithm -> projections: generate_geoestacionary_proj(air_mass_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+end
+main -> main: clean_mess() : void
+autonumber stop 
+return EXIT_SUCCESS
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 06:35:57 ART 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_262-b10
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,162 @@
+@startuml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+title Sequence diagram - V(1.0.0)
+actor PerlScript
+autonumber
+participant main order 10
+participant file_handler order 20
+participant true_color_algorithm order 30
+participant air_mass_algorithm order 40
+participant fire_temperature_algorithm order 50
+participant parallel_lib order 60
+participant projections order 70
+
+PerlScript -> main: ./goes_parallel(argc,argv) : int
+activate main
+main -> file_handler: open_netcdf(argv[1]) : void
+activate file_handler
+file_handler -> file_handler: read_and_load(file_name) : uint8_t
+autonumber stop
+return
+autonumber resume
+par
+main -> main: load_channel(channel_number) : int*
+note right
+Esto se podría hacer en MPI, en total se necesitan
+10 canales: 1,2,3,5,6,7,8,10,12,13. Cada proceso, puede usar
+OpenMP para crear la matriz
+end note
+end 
+alt case: true_color_algorithm
+    main -> true_color_algorithm : calculate_true_color() : void
+    activate true_color_algorithm
+    note over true_color_algorithm
+        True color usa los canales 1,2 y 3
+    end note
+    true_color_algorithm -> main : get_channel_1() : int*
+    autonumber stop
+    main --> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_2() : int*
+    autonumber stop
+    main --> true_color_algorithm : 
+    autonumber resume 
+    true_color_algorithm -> main: get_channel_3() : int*
+    autonumber stop
+    main --> true_color_algorithm : 
+    autonumber resume 
+    par 
+    true_color_algorithm -> true_color_algorithm: apply_gamma() : void
+    note over true_color_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end 
+    par 
+    true_color_algorithm -> true_color_algorithm: true_green() : void
+    note over true_color_algorithm
+    TrueGreen = (0.4835*R) + (0.0603*G) + (0.4570*B)
+    end note
+    end 
+    true_color_algorithm -> parallel_lib: compose_image(channel_1,channel_2,channel_3)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib --> true_color_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    true_color_algorithm -> projections: generate_geoestacionary_proj(true_color_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+else case: fire_temperature_algorithm
+    main -> fire_temperature_algorithm: calculate_fire() : void
+    note over fire_temperature_algorithm
+    Fire usa los canales 5,6 y 7
+    end note
+    activate fire_temperature_algorithm
+    fire_temperature_algorithm -> main : get_channel_5() : int*
+    autonumber stop
+    main --> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_6() : int*
+    autonumber stop
+    main --> fire_temperature_algorithm : 
+    autonumber resume 
+    fire_temperature_algorithm -> main: get_channel_7() : int*
+    autonumber stop
+    main --> fire_temperature_algorithm : 
+    autonumber resume 
+    par 
+    fire_temperature_algorithm -> fire_temperature_algorithm: apply_gamma() : void
+    note over fire_temperature_algorithm
+    Para cada valor, valor = valor^(1/gamma)
+    end note
+    end
+    fire_temperature_algorithm -> parallel_lib: compose_image(channel_5,channel_6,channel_7)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib --> fire_temperature_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    fire_temperature_algorithm -> projections: generate_geoestacionary_proj(fire_matrix) : void
+    fire_temperature_algorithm -> projections: generate_cilindrical_proj(fire_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    projections -> projections: save_cil_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+    note over fire_temperature_algorithm
+    Este algoritmo es crítico, debería comunicarse con una API de Golang para
+    notificar si se detectan puntos rojos brillantes. (Consultar que valor es un punto rojo brillante)
+    Podría paralelizarse la búsqueda de esos puntos o usar un script
+    end note
+else case: air_mass_algorithm
+    main -> air_mass_algorithm : calculate_air_mass() : void
+    activate air_mass_algorithm
+    note over air_mass_algorithm
+        True color usa los canales 8,10,12 y 13
+    end note
+    air_mass_algorithm -> main : get_channel_8() : int*
+    autonumber stop
+    main --> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_10() : int*
+    autonumber stop
+    main --> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_12() : int*
+    autonumber stop
+    main --> air_mass_algorithm : 
+    autonumber resume 
+    air_mass_algorithm -> main: get_channel_13() : int*
+    autonumber stop
+    main --> air_mass_algorithm : 
+    autonumber resume 
+    par 
+    air_mass_algorithm -> air_mass_algorithm: normalize() : void
+    note over air_mass_algorithm
+    B = 1 - B. Además hay que convertir a grados celcius el canal 8
+    end note
+    end 
+    air_mass_algorithm -> parallel_lib: compose_image(channel_8,channel_10,channel_12,channel_13)  : int*
+    activate parallel_lib
+    autonumber stop
+    parallel_lib --> air_mass_algorithm :
+    autonumber resume
+    deactivate parallel_lib
+    air_mass_algorithm -> projections: generate_geoestacionary_proj(air_mass_matrix) : void
+    activate projections
+    projections -> projections: save_image() : void
+    autonumber stop
+    return
+    return
+    autonumber resume
+end
+main -> main: clean_mess() : void
+autonumber stop 
+return EXIT_SUCCESS
+@enduml
